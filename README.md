@@ -44,7 +44,7 @@ iwctl
 When you have internet you can download the script with `curl`:
 
 ```sh
-curl -LO "https://raw.githubusercontent.com/parcevval/archlinux-installer-script/master/README.md"
+curl -LO "https://raw.githubusercontent.com/parcevval/archlinux-installer-script/master/archstrap.sh"
 ```
 
 Once you have the script you can run it. Arguments for the command are
